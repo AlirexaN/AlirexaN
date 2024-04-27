@@ -2,7 +2,7 @@
 
 ## Web Developer & Designer
 
-- 🌍  I'm based in Qazvin, iran
+- 🌍  I'm based in Qazvin, Iran
 - 🖥️  See my portfolio at [](later)
 - ✉️  You can contact me at [](mailto:alirexxan@gmail.com)
 <!-- - 🚀  I'm currently working on [] -->
