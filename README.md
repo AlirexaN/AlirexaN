@@ -1,48 +1,49 @@
 # Hi 👋 My name is Alirexa Najafi
 
-## Web Developer & Designer
+# 🌈 About Me
 
-- 🌍  I'm based in Qazvin, Iran
-- 🖥️  See my portfolio at [](later)
-- ✉️  You can contact me at [](mailto:alirexxan@gmail.com)
-<!-- - 🚀  I'm currently working on [] -->
-- 🤝  I'm open to collaborating on exciting projects as a frontend developer, designer or dev rel.
+I'm a creative thinker, a problem solver, and an avid learner, always exploring new trends and techniques in programming. When I'm not pushing keys, you can find me while i'm using AI for asking my questions, capturing the world or me learning from others.
 
+# 💼 Experience
 
-### Skills
+### Junior Front-End Programmer
 
-<p align="left">
+- Lead the design of intuitive user interfaces for mobile and web applications, enhancing user satisfaction and engagement.
 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.******githubusercon**te**nt**.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-</a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+# 🎓 Education
 
+### Graduated from Jahad University 
 
+- Thesis: "Interactivity and User Engagement in Digital Platforms"
 
-</p>
+# 🚀 Projects
 
-### Socials
+### "Contact manager" Web App
 
-<p align="left"> 
+- A tiny modular web app which is designed for saving your contacts, when ever u need.
 
+- Tools: React,BootStrap, & CSS
 
+### "Todo List" Web App
 
- <a href="https://www.github.com/danielcranney" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-  <a href="https://www.linkedin.com/in/daniel-cranney" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-  
+- Another minor web app, for mentioning and compeleting your daily tasks
+- Tools: React,MUI
 
-  </p>
+# 🔨 Skills
 
-### Badges
+- HTML
+- Css
+- JavaScript
+- React
+- MUI
+- Redux & Redux Saga
 
-<b>My GitHub Stats</b>
+# 📬 Contact
 
+Let's create something amazing together! Reach out to me at:
 
+- Email: [ada@yourdomain.com](mailto:alirexxan.com)
+- LinkedIn: [linkedin.com/in/adalee](www.linkedin.com/in/alireza-najafi-232800339)
+- Portfolio: [adaleedesigns.com](http://adaleedesigns.com/)
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/danielcranney"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+Thanks for stopping by my corner of the internet! 💫
