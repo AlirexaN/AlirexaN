@@ -42,8 +42,8 @@ I'm a creative thinker, a problem solver, and an avid learner, always exploring 
 
 Let's create something amazing together! Reach out to me at:
 
-- Email: [ada@yourdomain.com](mailto:alirexxan.com)
-- LinkedIn: [linkedin.com/in/alireza-najafi-232800339](https://www.linkedin.com/in/alireza-najafi-232800339)
+- Email: [alirexxan@gmail.com](mailto:alirexxan.com)
+- LinkedIn: [linkedin.com/in/alirexa-n](https://www.linkedin.com/in/alireza-najafi-232800339)
 - Portfolio: [adaleedesigns.com](http://adaleedesigns.com/)
 
 Thanks for stopping by my corner of the internet! 💫
