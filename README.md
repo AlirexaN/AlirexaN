@@ -6,7 +6,7 @@ I'm a creative thinker, a problem solver, and an avid learner, always exploring 
 
 # 💼 Experience
 
-### Junior Front-End Programmer
+### Front-End Developer
 
 - Lead the design of intuitive user interfaces for mobile and web applications, enhancing user satisfaction and engagement.
 
