@@ -28,7 +28,7 @@ I'm a creative thinker, a problem solver, and an avid learner, always exploring 
 
 - Another minor web app, for mentioning and compeleting your daily tasks
 - Tools: React,MUI
-#### you can download both project source codes in my Alix Repo
+#### you can download both project source codes in https://github.com/AlirexaN/Alix
 # 🔨 Skills
 
 - HTML
