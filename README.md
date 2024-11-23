@@ -28,7 +28,7 @@ I'm a creative thinker, a problem solver, and an avid learner, always exploring 
 
 - Another minor web app, for mentioning and compeleting your daily tasks
 - Tools: React,MUI
-#### you can download both project source codes in <a target="_blank" href="https://github.com/AlirexaN/Alix" > here</a>
+#### you can download both project source codes in <a href="https://github.com/AlirexaN/Alix" > here</a>
 # 🔨 Skills
 
 - HTML
@@ -43,7 +43,7 @@ I'm a creative thinker, a problem solver, and an avid learner, always exploring 
 Let's create something amazing together! Reach out to me at:
 
 - Email: [alirexxan@gmail.com](mailto:alirexxan.com)
-- LinkedIn: <a target="_blank"  href="https://www.linkedin.com/in/alirexa-n-232800339?trk=contact-info">ALirexa N</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/alirexa-n-232800339?trk=contact-info">AlirexaN</a>
 - Portfolio: [adaleedesigns.com](http://adaleedesigns.com/)
 
 Thanks for stopping by my corner of the internet! 💫
