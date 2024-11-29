@@ -4,7 +4,7 @@
 
 I'm a creative thinker, a problem solver, and an avid learner, always exploring new trends and techniques in programming. When I'm not pushing keys, you can find me while i'm using AI for asking my questions, capturing the world or me learning from others.
 
-# 💼 Experience
+# 💼 Experiences
 
 ### Front-End Developer
 
