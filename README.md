@@ -22,19 +22,18 @@ I'm a creative thinker, a problem solver, and an avid learner, always exploring 
 
 - A tiny modular web app which is designed for saving your contacts, when ever u need.
 
-- Tools: React,BootStrap, & CSS
+- Tools: React, BootStrap, & CSS
 
 ### "Todo List" Web App
 
 - Another minor web app, for mentioning and compeleting your daily tasks
-- Tools: React,MUI
+- Tools: React, MUI
   
   ### "personal portfolio" Website
   
 - A personal portfolio for specified customer
 - Tools: Html, Scss, and Vanilla JavaScript
-  
-you can check this website in <a href="https://eagerdevelopers.ir"> here</a>
+-you can check this website in <a href="https://eagerdevelopers.ir"> here</a>
   
 #### you can download both React project source codes in <a href="https://github.com/AlirexaN/Alix"> here</a>
 # 🔨 Skills
