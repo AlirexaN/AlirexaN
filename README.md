@@ -1,4 +1,4 @@
-# Hi 👋 My name is Alirexa
+# Hey there! 👋 My name is Alirexa
 
 # 🌈 About Me
 
