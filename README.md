@@ -23,19 +23,23 @@ I'm a creative thinker, a problem solver, and an avid learner, always exploring 
 - A tiny modular web app which is designed for saving your contacts, when ever u need.
 
 - Tools: React, BootStrap, & CSS
-
+<br></br>
 ### "Todo List" Web App
 
 - Another minor web app, for mentioning and compeleting your daily tasks
 - Tools: React, MUI
-  
-  ### "personal portfolio" Website
-  
+
+### 💎 You can download both React project source codes in <a href="https://github.com/AlirexaN/Alix"> here</a>
+
+<hr></hr>
+
+### Personal Website ( Portfolio )
 - A personal portfolio for specified customer
+
 - Tools: Html, Scss, and Vanilla JavaScript
-- ##### you can check this website in <a href="https://eagerdevelopers.ir"> here</a>
-  
-#### you can download both React project source codes in <a href="https://github.com/AlirexaN/Alix"> here</a>
+
+-  ##### 📄 you can check this website in <a href="https://eagerdevelopers.ir"> here</a>
+
 # 🔨 Skills
 
 - HTML
@@ -51,6 +55,6 @@ Let's create something amazing together! Reach out to me at:
 
 - Email: [alirexxan@gmail.com](mailto:alirexxan.com)
 - LinkedIn: <a href="https://www.linkedin.com/in/alirexa-n-232800339?trk=contact-info">AlirexaN</a>
-- Portfolio: [adaleedesigns.com](http://adaleedesigns.com/)
+- Portfolio: "soon!"
 
 Thanks for stopping by my corner of the internet! 💫
