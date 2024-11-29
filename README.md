@@ -1,4 +1,4 @@
-# Hi 👋 My name is Alirexa Najafi
+# Hi 👋 My name is Alirexa
 
 # 🌈 About Me
 
