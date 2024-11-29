@@ -28,7 +28,14 @@ I'm a creative thinker, a problem solver, and an avid learner, always exploring 
 
 - Another minor web app, for mentioning and compeleting your daily tasks
 - Tools: React,MUI
-#### you can download both project source codes in <a href="https://github.com/AlirexaN/Alix" > here</a>
+  
+  ### "personal portfolio" Website
+  
+- A personal portfolio for specified customer
+- Tools: Html,Scss, and Vanilla JavaScript
+- <a href="https://eagerdevelopers.ir">you can check this website in here</a>
+  
+#### you can download both project source codes in <a href="https://github.com/AlirexaN/Alix"> here</a>
 # 🔨 Skills
 
 - HTML
