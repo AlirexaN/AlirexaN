@@ -33,9 +33,9 @@ I'm a creative thinker, a problem solver, and an avid learner, always exploring 
   
 - A personal portfolio for specified customer
 - Tools: Html,Scss, and Vanilla JavaScript
-- <a href="https://eagerdevelopers.ir">you can check this website in here</a>
+💎 you can check this website in <a href="https://eagerdevelopers.ir"> here</a>
   
-#### you can download both project source codes in <a href="https://github.com/AlirexaN/Alix"> here</a>
+#### you can download both React project source codes in <a href="https://github.com/AlirexaN/Alix"> here</a>
 # 🔨 Skills
 
 - HTML
