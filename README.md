@@ -15,7 +15,8 @@ I'm a creative thinker, a problem solver, and an avid learner, always exploring 
 ### Graduated from Jahad University 
 
 - Thesis: "Interactivity and User Engagement in Digital Platforms"
-
+  
+- You can check my programming diploma in my portfolio
 # 🚀 Projects
 
 ### "Contact manager" Web App
