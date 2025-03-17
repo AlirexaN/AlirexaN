@@ -56,6 +56,6 @@ Let's create something amazing together! Reach out to me at:
 
 - Email: [alirexxan@gmail.com](mailto:alirexxan.com)
 - LinkedIn: <a href="https://www.linkedin.com/in/alirexa-n-232800339?trk=contact-info">AlirexaN</a>
-- Portfolio: "soon!"
+- Portfolio: You can checkout my perosnal portfolio in <a href="https://alirexan.github.io/myportfolio/">Here</a>
 
 Thanks for stopping by my corner of the internet! 💫
