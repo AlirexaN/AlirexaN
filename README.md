@@ -49,6 +49,8 @@ I'm a creative thinker, a problem solver, and an avid learner, always exploring 
 - React
 - MUI
 - Redux & Redux Saga
+- Next.js
+- WPA
 
 # 📬 Contact
 
