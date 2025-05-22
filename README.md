@@ -50,7 +50,7 @@ I'm a creative thinker, a problem solver, and an avid learner, always exploring 
 - MUI
 - Redux & Redux Saga
 - Next.js
-- WPA
+- PWA
 
 # 📬 Contact
 
