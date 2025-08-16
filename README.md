@@ -51,6 +51,7 @@ I'm a creative thinker, a problem solver, and an avid learner, always exploring 
 - Redux & Redux Saga
 - Next.js
 - PWA
+- Node.js
 
 # 📬 Contact
 
